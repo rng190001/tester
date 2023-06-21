@@ -1,12 +1,12 @@
+import React from 'react';
 import './App.css';
+import About from './hamza/components/About';
 
 
 function App() {
   return (
-    <div className="App">
-      <h1>
-        Bye World
-      </h1>
+    <div>
+      <About/>
     </div>
   );
 }
