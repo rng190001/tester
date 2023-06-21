@@ -32,13 +32,13 @@ export default function Heading() {
                   </MDBNavbarLink>
                 </MDBNavbarItem>
                 <MDBNavbarItem>
-                  <MDBNavbarLink href='#'>Features</MDBNavbarLink>
+                  <MDBNavbarLink href='#'>About Me</MDBNavbarLink>
                 </MDBNavbarItem>
                 <MDBNavbarItem>
-                  <MDBNavbarLink href='#'>Pricing</MDBNavbarLink>
+                  <MDBNavbarLink href='#'>Resume</MDBNavbarLink>
                 </MDBNavbarItem>
                 <MDBNavbarItem>
-                  <MDBNavbarLink href='#'>About</MDBNavbarLink>
+                  <MDBNavbarLink href='#'>Contact Me</MDBNavbarLink>
                 </MDBNavbarItem>
               </MDBNavbarNav>
             </MDBCollapse>
